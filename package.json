@@ -1,5 +1,6 @@
 {
   "name": "ng-esbuild-transformer",
+  "repository": "https://github.com/galczo5/ng-esbuild-transformer",
   "version": "1.0.3",
   "description": "Jest transformer for Angular applications",
   "main": "index.js",

@@ -1,0 +1,16 @@
+{
+  "name": "ng-esbuild-transformer",
+  "version": "1.0.3",
+  "description": "Jest transformer for Angular applications",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "author": "galczo5",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "crypto": "^1.0.1",
+    "esbuild": "^0.14.49"
+  }
+}
